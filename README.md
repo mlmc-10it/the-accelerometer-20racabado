@@ -5,6 +5,7 @@ Tasks for learning physical computing with the microbit
 ![raspberry pi](https://www.raspberrypi.org/app/themes/mind-control/images/home-products-cta__image.png)
 
 A pie
-A list of microcontrollers 
-* Microbit <br>
-![microbit](https://www.buyapi.ca/wp-content/uploads/2016/05/microbit.jpg)
+Here is a list of microcontrollers 
+* CPU <br>
+![CPU](https://www.buyapi.ca/wp-content/uploads/2016/05/microbit.jpg)
+
