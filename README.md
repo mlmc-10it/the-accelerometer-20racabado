@@ -2,7 +2,6 @@
 Tasks for learning physical computing with the microbit
 # Physical computing refers to building interactive physical systems by the use of software and hardware that can sense and respond to the analog world.
 
-Micontroller 
 A microcontroller is a compact and small sized integrated circuit that governs a specific operation in the embedded system 
 Here is a list of the different types of microcontrollers
 *  Arduino <br>
@@ -22,5 +21,8 @@ Here is a list of the different types of censors
 ![Smoke, Gas and Alcohol sensor](https://cdn.shopify.com/s/files/1/2311/3697/products/seeed-atmospheric-gas-sensor-mq2-butane-methane-alcohol-hydrogen-and-smoke-27026255310_x700.jpg?v=1507122412)
 
 An Actuator is a component of a machine that is responsible for moving a mechanism or system 
+Here are examples of an Actuator 
+* Electrical Motors <br>
+![Electrical Motors](https://5.imimg.com/data5/XW/SK/MY-36621344/ac-electrical-motor-500x500.jpg)
 
 
