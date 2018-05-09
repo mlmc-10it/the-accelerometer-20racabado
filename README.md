@@ -12,7 +12,8 @@ Microcontroller
 It is a compact and small sized integrated circuit that governs a specific operation in the embedded system 
 Here is a list of the different types of microcontrollers
 
-Sensors refers to a device that detects or measures a physical property that is analysed in some sort of fashion, examples of sensors is that it is used to read any movement which is then trasported to the device.
+Sensors 
+
 Here is a list of the different types of censors 
 * Motion Sensors <br>
 ![Motion Sensors](http://www.everspringindustry.com/Upload/images/PAM42_l.jpg)
