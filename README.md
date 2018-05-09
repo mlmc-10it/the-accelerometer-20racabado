@@ -16,6 +16,10 @@ Sensors refers to a device that detects or measures a physical property that is 
 Here is a list of the different types of censors 
 * Motion Sensors <br>
 ![Motion Sensors](http://www.everspringindustry.com/Upload/images/PAM42_l.jpg)
+* Pressure Sensor <br>
+![Pressure Sensor](http://cfnewsads.thomasnet.com/images/cmsimage/image/pressure-sensor.jpg)
+* Smoke, Gas and Alcohol sensor
+![Smoke, Gas and Alcohol sensor](https://cdn.shopify.com/s/files/1/2311/3697/products/seeed-atmospheric-gas-sensor-mq2-butane-methane-alcohol-hydrogen-and-smoke-27026255310_x700.jpg?v=1507122412)
 
 
 
