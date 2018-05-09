@@ -12,9 +12,10 @@ Here is a list of the different types of microcontrollers
 * Microbit <br> 
 ![Microbit](https://www.kitronik.co.uk/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/5/6/5613_additional_bbc_microbit_board_only_back.jpg)
 
-Sensors
 Sensors refers to a device that detects or measures a physical property that is analysed in some sort of fashion, examples of sensors is that it is used to read any movement which is then trasported to the device.
 Here is a list of the different types of censors 
 * Motion Sensors <br>
 ![Motion Sensors](http://www.everspringindustry.com/Upload/images/PAM42_l.jpg)
+Motion sensors have the capcity to detect something from the Analog world, which it can analyse a human being. Alarms are an example, because it can detect any suspicious movement whether there was intruding the building
+
 
