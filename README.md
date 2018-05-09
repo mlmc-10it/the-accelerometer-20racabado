@@ -21,5 +21,6 @@ Here is a list of the different types of censors
 * Smoke, Gas and Alcohol sensor
 ![Smoke, Gas and Alcohol sensor](https://cdn.shopify.com/s/files/1/2311/3697/products/seeed-atmospheric-gas-sensor-mq2-butane-methane-alcohol-hydrogen-and-smoke-27026255310_x700.jpg?v=1507122412)
 
+An Actuator is a component of a machine that is responsible for moving a mechanism or system 
 
 
