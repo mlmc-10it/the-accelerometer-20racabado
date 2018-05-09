@@ -16,6 +16,6 @@ Sensors refers to a device that detects or measures a physical property that is 
 Here is a list of the different types of censors 
 * Motion Sensors <br>
 ![Motion Sensors](http://www.everspringindustry.com/Upload/images/PAM42_l.jpg)
-Motion sensors have the capcity to detect something from the Analog world, which it can analyse a human being. Alarms are an example, because it can detect any suspicious movement whether there was intruding the building
+
 
 
