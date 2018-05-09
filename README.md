@@ -26,10 +26,13 @@ Actuator:An Actuator is a component of a machine that is responsible for moving 
 Here are examples of an Actuator 
 * Electrical Motors <br>
 ![Electrical Motors](https://5.imimg.com/data5/XW/SK/MY-36621344/ac-electrical-motor-500x500.jpg)
+An electrical motor is an electrical machine that converts electrical energy into mechanical energy. 
 * Hydraulic cylinder
 ![Hydraulic cylinder](http://i.ebayimg.com/00/s/MjQzWDUwMA==/z/xNkAAMXQVT9S-qaL/$_3.JPG?set_id=2)
+A Hydraulic cylinder is a mechanical actuator that is used to give undirectional force
 * Pneumatic Actuators
 ![Pneumatic Actuators](https://valariearthur.files.wordpress.com/2013/09/pneumatic-actuators.jpg)
+A pneumatic actuator is a valve that converts energy into mechanical motion
 
 Software: Software refers to programs and other operating information used by computer
 Here are different types of software
