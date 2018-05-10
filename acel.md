@@ -15,4 +15,4 @@ What I have learned throughout this entire process of the Accelerometer on the m
  
  
  # My Findings 
- Throughout the process of coding to operate the microbit via acceleromter, I have found out that it works through the axis, which indicate specific rolls, which they have siginificance, because all 3 axis have specific functions. To overall sum up on what I've found
+ Throughout the process of coding to operate the microbit via acceleromter, I have found out that it works through the axis, which indicate specific rolls, which they have siginificance, because all 3 axis have specific functions. To overall sum up on what I've found is that when moving the microcontroller, the position of the lights starts to change 
