@@ -4,4 +4,4 @@ What I have learned throughout this entire process of the Accelerometer on the m
 <dt> What is an Accelerometer?
   <dd> An Accelerometer refers to a device that measures the acceleration of the moving or vibrating body, which it relies on human movement which then the device will react to the motion. 
     
- 
+ ![image](image1.png)
