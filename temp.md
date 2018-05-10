@@ -6,8 +6,7 @@ When operating the thermostat, it shows the temperature in Celsius then transiti
 
 # Here is the code 
 
-
-
+![code](image2.png)
 
 
 
