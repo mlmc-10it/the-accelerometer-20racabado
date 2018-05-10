@@ -3,3 +3,12 @@ What I have learned throughout this entire process of the Accelerometer on the m
     
   Here is the python code to operate the microcontroller 
  ![image](image1.png)
+ 
+ # What is it used for?
+ When using the Microbit, once the light detection is delivered, it automatically situates itself in a different position   because when the microcontroller tilts or turns you can move the light any place. Especially when it comes to moving it around or upside down, it will still continue to move because of the detection of the microbit movement. 
+ 
+ Here is an example of how it can travel to a space 
+ 
+ ![image](http://microbit-challenges.readthedocs.io/en/latest/_images/microbitAxes.jpg)
+ 
+ 
