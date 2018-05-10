@@ -11,4 +11,7 @@ What I have learned throughout this entire process of the Accelerometer on the m
  
  ![image](http://microbit-challenges.readthedocs.io/en/latest/_images/microbitAxes.jpg)
  
+ Another note there are 3 axis which play a different role and contain opposite traits, for the Z axis moves up and down, whilst X tiles from left to right and Y which tilts fowards and backwards
+ 
+ 
  
