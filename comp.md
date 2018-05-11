@@ -5,4 +5,6 @@ When operating the microbit with a compass, it was more of a challenging aspect 
 
 # Here are the codes 
 
+![comp](image3.png)
+
 
